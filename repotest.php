@@ -10,5 +10,5 @@ while($name = $d->read())
 	echo '<img src="' . $dir.$name . '" height="450"  />';
 }
 
-$d->close(); // Wettinger fügt nen Kommentar hinzu :D
+$d->close(); // Branch
 ?>
