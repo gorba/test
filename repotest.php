@@ -10,5 +10,5 @@ while($name = $d->read())
 	echo '<img src="' . $dir.$name . '" height="450"  />';
 }
 
-$d->close(); // noch ne normal version
+$d->close(); // normal version zu GIT History ++
 ?>
